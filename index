@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mango Trees</title>
+</head>
+<body>
+    <h1>Mango Trees</h1>
+    <p>Mango trees are tropical trees that produce mangoes, one of the most popular fruits in the world.</p>
+
+    <h2>Appearance:</h2>
+    <p>Mango trees have large, shiny leaves and produce small flowers that become mango fruits.</p>
+
+    <h2>Growing Conditions:</h2>
+    <p>Mango trees grow well in warm, sunny places with good soil.</p>
+
+    <h2>Uses:</h2>
+    <p>Mangoes can be eaten fresh, made into juice, or used in desserts.</p>
+
+    <h2>Fun Facts:</h2>
+    <ul>
+        <li>Mangoes have been grown for over 4,000 years.</li>
+        <li>They are called the King of Fruits.</li>
+    </ul>
+
+    <button onclick="window.location.href='members.html'">Members Page</button>
+</body>
+</html>
